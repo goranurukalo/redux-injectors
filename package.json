@@ -1,8 +1,8 @@
 {
   "name": "redux-injectors",
   "version": "1.3.0",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "main": "src/index.js",
+  "module": "src/index.esm.js",
   "types": "index.d.ts",
   "repository": "git@github.com:react-boilerplate/redux-injectors.git",
   "author": "react-boilerplate",
